@@ -1,4 +1,0 @@
-das ist zeile 1 +2
-das ist zeile 2 +3
-das ist zeile 3 +2
-das ist zeile 4
